@@ -9,3 +9,5 @@ This project is part of the material for chapter 8 of the book
    Pearson Education, 2016
 
 It implements a first version of a news feed for a social network.
+Vagner de Souza have added a Post subclass, tested it, and confirmed how it works.
+
